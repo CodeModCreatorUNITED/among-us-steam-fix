@@ -5,7 +5,7 @@ When testing mods, it is a once in a while occurance of you encountering the pop
 
 
 # How to Install
-You download the file, then you would paste it in your mod file. Image for example.
+You download the file (named steam_appid.txt), then you would paste it in your mod file. Image for example.
 
 ![image](https://github.com/user-attachments/assets/0b455cf7-5eed-41d1-bc01-2c3aa7cc21ad)
 
